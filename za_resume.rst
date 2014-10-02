@@ -80,12 +80,23 @@ Molecular Cellular and Developmental Biology:
 * Wrote custom Python scripts to identify distinct clusters of microbial
   communities in the environment
 
-EPOB:
-'''''
+Environmental Population and Organismic Biology:
+''''''''''''''''''''''''''''''''''''''''''''''''
 
-performed electro-physiological experiments on
-zebrafish to determine the decision mechanism in fight or flight
-responses.
+* performed electro-physiological experiments on zebrafish to determine how
+  signal integration led to left-right decisions in various stimulus regimes
+
+United State Marine Corps (USMC):
+'''''''''''''''''''''''''''''''''
+
+* gathered, analyzed, and interpreted battalion intelligence reports
+* organized, supervised, and led a squad of infantry Marines
+* performed ceremonial duties in Washington D.C.
+  - The Pentagon
+  - Arlington National Cemetary
+  - Headquarters Marine Corps "8th & I"
+  - The White House
+* performed the varied tasks of a Marine Rifleman
 
 Education:
 ''''''''''
