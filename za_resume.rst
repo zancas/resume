@@ -8,7 +8,7 @@ Least Authority:
 operated clusters of AWS EC2s providing:
 ''''''''''''''''''''''''''''''''''''''''
 
- * Customer Simple Secure Storage Servers (S4)
+* Customer Simple Secure Storage Servers (S4)
  * monitoring infrastructure:
 
    - piwik
