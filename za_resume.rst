@@ -2,11 +2,30 @@
 Professional experience:
 ------------------------
 
-LA:
+Least Authority:
 ```
+operated clusters of AWS EC2s supporting:
+
+ * Customer Simple Secure Storage Servers (S4)
+ * monitoring infrastructure (piwik, foolscap gatherers, statmover sinks)
+ * service infrastructure
+   * website
+   * service provisioning
+   * email
+
+ * developed features in support of S4
+   * integration with the stripe payment processing system (JavaScript)
+   * integration into the statmover monitoring service
+   * automation of PGP-using signup flow
+   * automation of service provisioning including
+     * payment processing
+     * EC2 launch and provisioning
+
 
 UCSC:
-`````
+```
+
+statistics:
 
 phylogenetic analyses of archaea; machine learning
 algorithms to detect open reading frames in large data sets.
