@@ -15,23 +15,23 @@ operated clusters of AWS EC2s providing:
   - foolscap gatherers
   - statmover sinks
 
- * service infrastructure
+* service infrastructure
 
-   - website
-   - service provisioning
-   - email
+  - website
+  - service provisioning
+  - email
 
 
 developed features in support of S4:
 ''''''''''''''''''''''''''''''''''''
 
- * integration with the stripe payment processing system (JavaScript)
- * integration into the statmover monitoring service
- * automation of PGP-using signup flow
- * automation of service provisioning including
+* integration with the stripe payment processing system (JavaScript)
+* integration into the statmover monitoring service
+* automation of PGP-using signup flow
+* automation of service provisioning including
 
-   - payment processing
-   - EC2 launch and provisioning
+  - payment processing
+  - EC2 launch and provisioning
 
 provided technical support to customers:
 ''''''''''''''''''''''''''''''''''''''''
@@ -43,27 +43,27 @@ UCSC:
 Bioinformatics:
 '''''''''''''''
 
- * phylogenetic analyses of archaea
- * machine learning algorithms to detect open reading frames in large data sets
+* phylogenetic analyses of archaea
+* machine learning algorithms to detect open reading frames in large data sets
 
 
 Molecular Biology:
 ''''''''''''''''''
 
- * Molecular cloning to identify molecular signals controlling neural
-   development.
- * Analyzed retinal neuron firing patterns to infer properties of mammalian visual processing.
+* Molecular cloning to identify molecular signals controlling neural
+  development.
+* Analyzed retinal neuron firing patterns to infer properties of mammalian visual processing.
 
 Institute for Behavioral Genetics:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- * Used various statistical/clustering techniques eg MCMC and HMMs to detect
-   confounding factors in large scale genetic association studies of
-   molecular neural markers of addiction.
+* Used various statistical/clustering techniques eg MCMC and HMMs to detect
+  confounding factors in large scale genetic association studies of
+  molecular neural markers of addiction.
 
- * managed all types of lab data
+* managed all types of lab data
 
- * wrote scripts automating data generation and analysis
+* wrote scripts automating data generation and analysis
 
 UC Boulder:
 ~~~~~~~~~~~
@@ -81,5 +81,3 @@ responses.
 
 Education:
 ''''''''''
-
-
