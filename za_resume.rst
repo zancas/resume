@@ -37,7 +37,7 @@ provided technical support to customers:
 ''''''''''''''''''''''''''''''''''''''''
 
 
-University of California Santa Cruz, Graduate Studies (UCSC):
+University of California Santa Cruz (UCSC), Graduate Studies:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bioinformatics:
