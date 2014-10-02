@@ -3,7 +3,7 @@ Professional experience:
 ------------------------
 
 Least Authority:
-```
+~~~~~~~~~~~~~~~~
 
 operated clusters of AWS EC2s supporting:
 
@@ -19,14 +19,15 @@ operated clusters of AWS EC2s supporting:
    * integration into the statmover monitoring service
    * automation of PGP-using signup flow
    * automation of service provisioning including
-     * payment processing
-     * EC2 launch and provisioning
+     - payment processing
+     - EC2 launch and provisioning
 
 
 UCSC:
-```
+~~~~~
 
 statistics:
+'''''''''''
 
 phylogenetic analyses of archaea; machine learning
 algorithms to detect open reading frames in large data sets.
@@ -48,6 +49,6 @@ zebrafish to determine the decision mechanism in fight or flight
 responses.
 
 Education:
-``````````
+''''''''''
 
 
