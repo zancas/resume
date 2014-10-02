@@ -3,8 +3,12 @@ Professional experience:
 ------------------------
 
 LA:
+```
 
-UCSC : phylogenetic analyses of archaea; machine learning
+UCSC:
+`````
+
+phylogenetic analyses of archaea; machine learning
 algorithms to detect open reading frames in large data sets.
 Molecular cloning to identify molecular signals controlling
 neural development. Analyzed retinal neuron firing patterns to
@@ -24,4 +28,6 @@ zebrafish to determine the decision mechanism in fight or flight
 responses.
 
 Education:
-----------
+``````````
+
+
