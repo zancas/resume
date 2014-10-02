@@ -1,5 +1,6 @@
 
 Professional experience:
+------------------------
 
 LA:
 
@@ -23,4 +24,4 @@ zebrafish to determine the decision mechanism in fight or flight
 responses.
 
 Education:
-
+----------
