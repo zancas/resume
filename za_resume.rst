@@ -96,7 +96,8 @@ United State Marine Corps (USMC):
   - Arlington National Cemetary
   - Headquarters Marine Corps "8th & I"
   - The White House
-* performed the varied tasks of a Marine Rifleman
+* performed the varied tasks of a Marine Rifleman, promoted to Sergeant with only
+  3 years of service
 
 Education:
 ''''''''''
