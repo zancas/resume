@@ -9,11 +9,11 @@ operated clusters of AWS EC2s providing:
 ''''''''''''''''''''''''''''''''''''''''
 
 * Customer Simple Secure Storage Servers (S4)
- * monitoring infrastructure:
+* monitoring infrastructure:
 
-   - piwik
-   - foolscap gatherers
-   - statmover sinks
+  - piwik
+  - foolscap gatherers
+  - statmover sinks
 
  * service infrastructure
 
