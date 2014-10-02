@@ -37,8 +37,8 @@ provided technical support to customers:
 ''''''''''''''''''''''''''''''''''''''''
 
 
-UCSC:
-~~~~~
+University of California Santa Cruz, Graduate Studies (UCSC):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bioinformatics:
 '''''''''''''''
@@ -65,17 +65,25 @@ Institute for Behavioral Genetics:
 
 * wrote scripts automating data generation and analysis
 
-UC Boulder:
-~~~~~~~~~~~
+University of Colorado (CU) Boulder, Undergraduate Research Grants:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MCDB:
+Molecular Cellular and Developmental Biology:
+'''''''''''''''''''''''''''''''''''''''''''''
+
+* aligned and inferred phylogenies of ribosomal RNA's using:
+  - arb
+  - phylip
+  - BioPython
+  - clustalW
+
+* Wrote custom Python scripts to identify distinct clusters of microbial
+  communities in the environment
+
+EPOB:
 '''''
 
-aligned ribosomal RNA's using Wrote custom
-python scripts to identify distinct clusters of microbial
-communities in the environment
-
-UC Boulder: EPOB: performed electro-physiological experiments on
+performed electro-physiological experiments on
 zebrafish to determine the decision mechanism in fight or flight
 responses.
 
