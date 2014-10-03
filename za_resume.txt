@@ -1,0 +1,117 @@
+﻿Skills:
+–-----------------------
+
+Expert: 
+
+* Python
+* Git 
+* unittests
+* Unix privacy tools: GPG, OTR, SSH, etc...
+* Tahoe-LAFS
+
+Proficient:
+
+* JavaScript
+* Email, 
+
+
+Professional Experience:
+------------------------
+
+Least Authority (2011-2014)
+
+Software Engineer, Operations Ninja, Customer Support
+developed features in support of the Simple Secure Storage Service (S4):
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+* Independently designed, implemented, and tested integration with Stripe payment processing system. 
+* integration into the statmover monitoring service
+* automation of PGP-using signup flow
+* automation of service provisioning including
+
+  - payment processing
+  - EC2 launch and provisioning
+
+operated clusters of AWS EC2s providing:
+''''''''''''''''''''''''''''''''''''''''
+
+* Customer Simple Secure Storage Servers (S4)
+* monitoring infrastructure:
+
+  - piwik
+  - foolscap gatherers
+  - statmover sinks
+
+* service infrastructure
+
+  - website
+  - service provisioning
+  - email
+
+provided technical support to customers:
+''''''''''''''''''''''''''''''''''''''''
+
+
+University of California Santa Cruz (UCSC), Graduate Studies:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bioinformatics:
+'''''''''''''''
+
+* phylogenetic analyses of archaea
+* machine learning algorithms to detect open reading frames in large data sets
+
+
+Molecular Biology:
+''''''''''''''''''
+
+* Molecular cloning to identify molecular signals controlling neural
+  development.
+* Analyzed retinal neuron firing patterns to infer properties of mammalian visual processing.
+
+Institute for Behavioral Genetics:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Used various statistical/clustering techniques eg MCMC and HMMs to detect
+  confounding factors in large scale genetic association studies of
+  molecular neural markers of addiction.
+
+* managed all types of lab data
+
+* wrote scripts automating data generation and analysis
+
+University of Colorado (CU) Boulder, Undergraduate Research Grants:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Molecular Cellular and Developmental Biology:
+'''''''''''''''''''''''''''''''''''''''''''''
+
+* aligned and inferred phylogenies of ribosomal RNA's using:
+  - arb
+  - phylip
+  - BioPython
+  - clustalW
+
+* Wrote custom Python scripts to identify distinct clusters of microbial
+  communities in the environment
+
+Environmental Population and Organismic Biology:
+''''''''''''''''''''''''''''''''''''''''''''''''
+
+* performed electro-physiological experiments on zebrafish to determine how
+  signal integration led to left-right decisions in various stimulus regimes
+
+United State Marine Corps (USMC):
+'''''''''''''''''''''''''''''''''
+
+* gathered, analyzed, and interpreted battalion intelligence reports
+* organized, supervised, and led a squad of infantry Marines
+* performed ceremonial duties in Washington D.C.
+  - The Pentagon
+  - Arlington National Cemetery
+  - Headquarters Marine Corps "8th & I"
+  - The White House
+* performed the varied tasks of a Marine Rifleman
+
+Education:
+''''''''''
