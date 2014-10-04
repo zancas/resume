@@ -1,45 +1,58 @@
+﻿Skills:
+–-----------------------
+
+Expert:
+
+* Python
+* Git
+* unittests
+* Unix privacy tools: GPG, OTR, SSH, etc...
+* Tahoe-LAFS
+
+Proficient:
+
+* JavaScript
+* Email,
+
+Dabbled:
+Nagios,piwik
+
+
 
 Professional Experience:
 ------------------------
 
-Least Authority:
-~~~~~~~~~~~~~~~~
+Least Authority (2011-2014)
 
-operated clusters of AWS EC2s providing:
+Software Engineer, Operations Ninja, Customer Support
+
+developed features in support of the Simple Secure Storage Service (S4):
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+* Independently designed, implemented, and tested integration with Stripe payment processing system. (JavaScript)
+* Integrated S4 nodes into the Statmover monitoring service. (Python,Bash)
+* Automated PGP signup flow (Pyhon, Bash, Unitest, GPG)
+* Automated service provisioning including: payment processing, EC2 launch and Tahoe provisioning. (
+* Detected and demonstrated inadequacy of DARCS for snapshotted provisioning.
+*Designed and implemented Git based snapshotted provisioning.
+
+Operated EC2 clusters
 ''''''''''''''''''''''''''''''''''''''''
-
-* Customer Simple Secure Storage Servers (S4)
-* monitoring infrastructure:
-
-  - piwik
-  - foolscap gatherers
-  - statmover sinks
-
-* service infrastructure
+* Designed implemented and deployed customer EC2
+* Instrumented customer nodes to support foolscap gatherer and Stamover monitoring; configured and deployed foolscap gatherer monitors.
+* Maintained, extended and deployed Python Twisted webserver and Foolscap application server.
+*Testing
 
   - website
   - service provisioning
   - email
 
-
-developed features in support of S4:
-''''''''''''''''''''''''''''''''''''
-
-* integration with the stripe payment processing system (JavaScript)
-* integration into the statmover monitoring service
-* automation of PGP-using signup flow
-* automation of service provisioning including
-
-  - payment processing
-  - EC2 launch and provisioning
-
 provided technical support to customers:
 ''''''''''''''''''''''''''''''''''''''''
 
 
-University of California Santa Cruz (UCSC), Graduate Studies:
+University of California Santa Cruz (2007-2011)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+Teachers Assistant-Genetics, Statistics
 Bioinformatics:
 '''''''''''''''
 
@@ -86,17 +99,19 @@ Environmental Population and Organismic Biology:
 * performed electro-physiological experiments on zebrafish to determine how
   signal integration led to left-right decisions in various stimulus regimes
 
-United State Marine Corps (USMC):
-'''''''''''''''''''''''''''''''''
+United State Marine Corps (USMC) (1995-1999)
+Sergeant
+Performed duties of Infantryman, Honor Guard, intelligence analyst and squad leader
 
-* gathered, analyzed, and interpreted battalion intelligence reports
-* organized, supervised, and led a squad of infantry Marines
-* performed ceremonial duties in Washington D.C.
-  - The Pentagon
-  - Arlington National Cemetary
-  - Headquarters Marine Corps "8th & I"
-  - The White House
-* performed the varied tasks of a Marine Rifleman
 
 Education:
-''''''''''
+–---------
+Fruita Monument Highschool (1995)
+Colorado University Boulder (1999-2005)
+B.A. Biochemistry; B.A. Molecular Biology; Minors- Applied math(statistics), Chemistry. Certificates: Neuroscience, emphasis computer science
+
+University of California Santa Cruz (2007-2011)
+Molecular Biology; Bioinformatics; Statistics
+
+Miguel De Cervantes Spanish School, Xela, Guatemala (2011)
+
