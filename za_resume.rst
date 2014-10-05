@@ -1,7 +1,7 @@
 ﻿Skills:
 -------
 
-Expert:
+Experienced:
 ~~~~~~~
 
 * Python (twisted.trial, twisted.web, twisted.python.filepath, mock, ipython,
@@ -39,7 +39,7 @@ Professional Experience:
 Least Authority (2011-2014):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Software Engineer, Operator, Customer Supporter
+Software Engineer, Operator, Customer Support
 
 developed features in support of the Simple Secure Storage Service (S4):
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -73,7 +73,7 @@ Operated EC2 clusters
 provided technical support to customers:
 ''''''''''''''''''''''''''''''''''''''''
 
-* used the zendesk issue tracking system
+* Responsible for responding to and resolving all customer requests in a timely manner using the zendesk issue tracking system
 
 University of California Santa Cruz (2007-2011):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,8 +83,8 @@ Researcher, Teacher's Assistant: Genetics, Bioinformatics, Statistics
 Bioinformatics:
 '''''''''''''''
 
-* phylogenetic analyses of archaea
-* machine learning algorithms to detect open reading frames in large data sets
+*Wrote python scripts to align molecular sequences and infer phylogenies from them. 
+*Used support vector  machines to detect open reading frames in large yeast data sets
 
 
 Molecular Biology:
@@ -92,7 +92,7 @@ Molecular Biology:
 
 * Molecular cloning to identify molecular signals controlling neural
   development.
-* Analyzed retinal neuron firing patterns to infer properties of mammalian visual processing.
+* Used custom java applications to analyze retinal neuron firing patterns and infer properties of mammalian visual processing.
 
 Institute for Behavioral Genetics:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,24 +101,22 @@ Institute for Behavioral Genetics:
   confounding factors in large scale genetic association studies of
   molecular neural markers of addiction.
 
-* managed all types of lab data
+* Managed all types of lab data
 
-* wrote scripts automating data generation and analysis
+* Wrote Python scripts automating data generation and analysis
 
 University of Colorado (CU) Boulder, Undergraduate Research Grants:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Molecular Cellular and Developmental Biology:
-'''''''''''''''''''''''''''''''''''''''''''''
-
-* aligned and inferred phylogenies of ribosomal RNA's using (Python)
+''''''''''''''''''''''''''''''''''''''''''''' 
 * Wrote custom Python scripts to identify distinct clusters of microbial
   communities in the environment
 
 Environmental Population and Organismic Biology:
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
-* performed electro-physiological experiments on zebrafish to determine how
+* Performed electro-physiological experiments on zebrafish to determine how
   signal integration led to left-right decisions in various stimulus regimes
 
 United State Marine Corps, (USMC) (1995-1999):
