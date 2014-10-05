@@ -4,22 +4,33 @@
 Expert:
 ~~~~~~~
 
-* Python
-* Git
-* unittests
-* Unix privacy tools: GPG, OTR, SSH, etc...
-* Tahoe-LAFS
+* Python (twisted.trial, twisted.web, twisted.python.filepath, mock, ipython,
+  virtualenv, pip, matplotlib, etc...), Git, Unix privacy tools: GPG, OTR, SSH, etc...,
+  Tahoe-LAFS, BASH, networking (HTTP, SSL, TCP/UDP, IP, ICMP, ethernet, 802.11,
+  CDMA, QAM 16/64, Coding Schemes (Huffman), Information Limits, etc.), emacs
+* Genetics (classical, quantitative, population/evolutionary), Evolution
+  (molecular, theoretical)
 
 Proficient:
 ~~~~~~~~~~~
 
-* JavaScript
-* Email,
+* JavaScript (jasmine, jquery, Stripe client), C (sockets, Unix file system
+  I/O, pointers, structs, unions, memory management, general language
+  fundamentals), vi/vim, many basic utilities (grep, ls, sl, find, nc, cat,
+  etc, etc...), Crypto Primitives Applications (Diffie-Helman, signing,
+  encrypting, decrypting, etc.
+
+* probability (permutations, combinations, distributions (binomial, gaussian,
+  exponential, Poisson, hypergeometric, etc.)), statistics (frequentist,
+  Bayesian, coherency, consistency, minimality, sufficiency, etc. linear
+  modeling, continuous, discrete, order stats, descriptive, predicitive,
+  hypothesis testing), modeling (functional, discrete), algorithm analysis big-and-little-O
 
 Dabbled:
 ~~~~~~~~
 
-Nagios,piwik
+* Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning
+  (MCMC/HMMs/Support Vectors), 
 
 
 Professional Experience:
@@ -28,25 +39,32 @@ Professional Experience:
 Least Authority (2011-2014):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Software Engineer, Operations Ninja, Customer Support
+Software Engineer, Operator, Customer Supporter
 
 developed features in support of the Simple Secure Storage Service (S4):
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-* Independently designed, implemented, and tested integration with Stripe payment processing system. (JavaScript)
-* Integrated S4 nodes into the Statmover monitoring service. (Python,Bash)
-* Automated PGP signup flow (Pyhon, Bash, Unitest, GPG)
-* Automated service provisioning including: payment processing, EC2 launch and Tahoe provisioning. (
-* Detected and demonstrated inadequacy of DARCS for snapshotted provisioning.
-* Designed and implemented Git based snapshotted provisioning.
+* Independently designed, implemented, and tested integration with Stripe
+  payment processing system. (Twisted Python, JavaScript)
+* Integrated S4 nodes into the Statmover monitoring service. (Python, BASH,
+  AWS EC2/S3)
+* Automated PGP signup flow (Python, BASH, Unittest, GPG)
+* Automated service provisioning including: payment processing, EC2 launch
+  and Tahoe provisioning. (Twisted Python, git, tahoe-LAFS)
+* Detected and demonstrated inadequacy of DARCS for snapshotted
+  deployments. (darcs, git)
+* Designed and implemented Git based snapshotted provisioning. (git)
 
 Operated EC2 clusters
 '''''''''''''''''''''
 
-* Designed implemented and deployed customer EC2
-* Instrumented customer nodes to support foolscap gatherer and Stamover monitoring; configured and deployed foolscap gatherer monitors.
-* Maintained, extended and deployed Python Twisted webserver and Foolscap application server.
-* Testing
+* Designed implemented and deployed customer EC2s (AWS EC2, Python, apt)
+* Instrumented customer nodes to support foolscap gatherer and Stamover
+  monitoring; configured and deployed foolscap gatherer monitors. (Python,
+  foolscap, statmover, nagios)
+* Maintained, extended and deployed Python Twisted webserver and Foolscap
+  application server. (Twisted Python, foolscap)
+* Testing (twisted.trial.unittest, mock, etc.)
 
   - website
   - service provisioning
@@ -55,6 +73,7 @@ Operated EC2 clusters
 provided technical support to customers:
 ''''''''''''''''''''''''''''''''''''''''
 
+* used the zendesk issue tracking system
 
 University of California Santa Cruz (2007-2011):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,4 +138,3 @@ University of California Santa Cruz (2007-2011)
 Molecular Biology; Bioinformatics; Statistics
 
 Miguel De Cervantes Spanish School, Xela, Guatemala (2011)
-
