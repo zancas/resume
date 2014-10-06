@@ -7,6 +7,7 @@ Email:  wilcoxjg@gmail.com
 
 Cell:   303-917-4176
 
+This Resume: https://github.com/zancas/resume/blob/master/za_resume.rst
 
 Skills:
 -------
