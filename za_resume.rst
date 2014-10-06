@@ -15,7 +15,7 @@ Proficient:
 ~~~~~~~~~~~
 
 * JavaScript (jasmine, jquery, Stripe client), C (sockets, Unix file system
-  I/O, pointers, structs, unions, memory management, general language
+  I/O, pointers, structs, unions, dynamic memory management, general language
   fundamentals), vi/vim, many basic utilities (grep, ls, sl, find, nc, cat,
   etc, etc...), Crypto Primitives Applications (Diffie-Helman, signing,
   encrypting, decrypting, etc.
