@@ -24,7 +24,7 @@ Proficient:
   exponential, Poisson, hypergeometric, etc.)), statistics (frequentist,
   Bayesian, coherency, consistency, minimality, sufficiency, etc. linear
   modeling, continuous, discrete, order stats, descriptive, predicitive,
-  hypothesis testing), modeling (functional, discrete), algorithm analysis big-and-little-O
+  hypothesis testing), modeling (functional, discrete), asymptotic algorithm analysis big-and-little-O
 
 Dabbled:
 ~~~~~~~~
