@@ -59,7 +59,7 @@ Operated EC2 clusters
 '''''''''''''''''''''
 
 * Designed implemented and deployed customer EC2s (AWS EC2, Python, apt)
-* Instrumented customer nodes to support foolscap gatherer and Stamover
+* Instrumented customer nodes to support foolscap gatherer and Statmover
   monitoring; configured and deployed foolscap gatherer monitors. (Python,
   foolscap, statmover, nagios)
 * Maintained, extended and deployed Python Twisted webserver and Foolscap
