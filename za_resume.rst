@@ -2,7 +2,7 @@
 -------
 
 Experienced:
-~~~~~~~
+~~~~~~~~~~~~
 
 * Python (twisted.trial, twisted.web, twisted.python.filepath, mock, ipython,
   virtualenv, pip, matplotlib, etc...), Git, Unix privacy tools: GPG, OTR, SSH, etc...,
@@ -83,8 +83,8 @@ Researcher, Teacher's Assistant: Genetics, Bioinformatics, Statistics
 Bioinformatics:
 '''''''''''''''
 
-*Wrote python scripts to align molecular sequences and infer phylogenies from them. 
-*Used support vector  machines to detect open reading frames in large yeast data sets
+* Wrote python scripts to align molecular sequences and infer phylogenies from them.
+* Used support vector  machines to detect open reading frames in large yeast data sets
 
 
 Molecular Biology:
