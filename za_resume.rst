@@ -1,9 +1,12 @@
-Za Wilgustus [AKAs: Zancas, Josh Wilcox, Precious Angel (only to my mom)]﻿
-`````````````````````````````````````````````````````````````````````````
+Me:
+---
+
+Za Wilgustus (AKAs: Zancas, Josh Wilcox, Precious Angel (to my mom))﻿
+
 Email:  wilcoxjg@gmail.com
-``````````````````````````
+
 Cell:   303-917-4176
-````````````````````
+
 
 Skills:
 -------
