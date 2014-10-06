@@ -6,7 +6,7 @@ Experienced:
 
 * Python (twisted.trial, twisted.web, twisted.python.filepath, mock, ipython,
   virtualenv, pip, matplotlib, etc...), Git, Unix privacy tools: GPG, OTR, SSH, etc...,
-  Tahoe-LAFS, BASH, networking (HTTP, SSL, TCP/UDP, IP, ICMP, ethernet, 802.11,
+  Tahoe-LAFS, BASH, networking (DHCP, DNS, HTTP, SSL, TCP/UDP, IP, ICMP, ethernet, 802.11,
   CDMA, QAM 16/64, Coding Schemes (Huffman), Information Limits, etc.), emacs
 * Genetics (classical, quantitative, population/evolutionary), Evolution
   (molecular, theoretical)
