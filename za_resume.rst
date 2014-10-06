@@ -45,7 +45,7 @@ developed features in support of the Simple Secure Storage Service (S4):
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 * Independently designed, implemented, and tested integration with Stripe
-  payment processing system. (Twisted Python, JavaScript)
+  payment processing system. (Twisted Web Python, JavaScript)
 * Integrated S4 nodes into the Statmover monitoring service. (Python, BASH,
   AWS EC2/S3)
 * Automated PGP signup flow (Python, BASH, Unittest, GPG)
