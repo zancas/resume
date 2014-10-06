@@ -1,4 +1,9 @@
-﻿Skills:
+Za Wilgustus [AKA Zancas, AKA Josh Wilcox, AKA Precious Angel (only to my mom)]﻿
+Email:  wilcoxjg@gmail.com
+Cell:   303-917-4176
+
+
+Skills:
 -------
 
 Experienced:
