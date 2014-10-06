@@ -1,10 +1,9 @@
-Za Wilgustus [AKA Zancas, AKA Josh Wilcox, AKA Precious Angel (only to my
-mom)]
-﻿
+Za Wilgustus [AKAs: Zancas, Josh Wilcox, Precious Angel (only to my mom)]﻿
+`````````````````````````````````````````````````````````````````````````
 Email:  wilcoxjg@gmail.com
-
+``````````````````````````
 Cell:   303-917-4176
-
+````````````````````
 
 Skills:
 -------
@@ -127,20 +126,25 @@ Environmental Population and Organismic Biology:
 * Performed electro-physiological experiments on zebrafish to determine how
   signal integration led to left-right decisions in various stimulus regimes
 
-United State Marine Corps, (USMC) (1995-1999):
-''''''''''''''''''''''''''''''''''''''''''''''
+Sergeant, United State Marine Corps (USMC) (1995-1999):
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Sergeant
 Performed duties of Infantryman, Honor Guard, intelligence analyst and squad leader
 
 
 Education:
 ----------
-Fruita Monument Highschool (1995)
-Colorado University Boulder (1999-2005)
-B.A. Biochemistry; B.A. Molecular Biology; Minors- Applied math(statistics), Chemistry. Certificates: Neuroscience, emphasis computer science
+* Fruita Monument Highschool (1995)
+* University of Colorado, Boulder (1999-2005)
 
-University of California Santa Cruz (2007-2011)
-Molecular Biology; Bioinformatics; Statistics
+  - B.A. Biochemistry
+  - B.A. Molecular Biology
+  - Minors- Applied math(statistics), Chemistry.
+  - Certificates: Neuroscience, emphasis computer science
 
-Miguel De Cervantes Spanish School, Xela, Guatemala (2011)
+* University of California Santa Cruz (2007-2011)
+
+  - Molecular Biology; Bioinformatics; Statistics
+
+
+* Miguel De Cervantes Spanish School, Xela, Guatemala (2011)
