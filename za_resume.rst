@@ -1,5 +1,9 @@
-Me:
----
+Resume
+
+***********************
+
+Contact Me:
+-----------
 
 Za Wilgustus (AKAs: Zancas, Josh Wilcox, Precious Angel (to my mom))﻿
 
@@ -7,7 +11,9 @@ Email:  wilcoxjg@gmail.com
 
 Cell:   303-917-4176
 
-This Resume: https://github.com/zancas/resume/blob/master/za_resume.rst
+Latest Version of This Resume: https://github.com/zancas/resume/blob/master/za_resume.rst
+
+************************
 
 Skills:
 -------
@@ -41,7 +47,7 @@ Dabbled:
 ~~~~~~~~
 
 * Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning
-  (MCMC/HMMs/Support Vectors), 
+  (MCMC/HMMs/Support Vectors)
 
 
 Professional Experience:
