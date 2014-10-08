@@ -1,4 +1,6 @@
-Resume
+Empirical Pythonista Seeking Involvement With Radical Technologies
+
+(SDN, Distributed Computation, Cryptocurrencies, Distributed Storage, Privacy)
 
 ***********************
 
@@ -21,9 +23,10 @@ Skills:
 Experienced:
 ~~~~~~~~~~~~
 
-* Python (twisted.trial, twisted.web, twisted.python.filepath, mock, ipython,
-  virtualenv, pip, matplotlib, etc...), Git, Unix privacy tools: GPG, OTR, SSH, etc...,
-  Tahoe-LAFS, BASH, networking (DHCP, DNS, HTTP, SSL, TCP/UDP, IP, ICMP, ethernet, 802.11,
+* Python Testing (twisted.trial, mock, unittest, doctest), Python
+  (twisted.web, twisted.python.filepath, ipython, virtualenv, pip,
+  matplotlib, biopython, etc...), Git, Unix privacy tools: GPG, OTR, SSH, etc...,
+  Tahoe-LAFS, bash, networking (DHCP, DNS, HTTP, SSL, TCP/UDP, IP, ICMP, ethernet, 802.11,
   CDMA, QAM 16/64, Coding Schemes (Huffman), Information Limits, etc.), emacs
 * Genetics (classical, quantitative, population/evolutionary), Evolution
   (molecular, theoretical)
@@ -31,11 +34,9 @@ Experienced:
 Proficient:
 ~~~~~~~~~~~
 
-* JavaScript (jasmine, jquery, Stripe client), C (sockets, Unix file system
-  I/O, pointers, structs, unions, dynamic memory management, general language
-  fundamentals), vi/vim, many basic utilities (grep, ls, sl, find, nc, cat,
-  etc, etc...), Crypto Primitives Applications (Diffie-Helman, signing,
-  encrypting, decrypting, etc.
+* JavaScript (jasmine, jquery, Stripe client), C, vi/vim, many basic
+  utilities (grep, ls, sl, find, nc, cat, etc, etc...), crypto primitives
+  applications (Diffie-Helman, signing, encrypting, decrypting, etc.)
 
 * probability (permutations, combinations, distributions (binomial, gaussian,
   exponential, Poisson, hypergeometric, etc.)), statistics (frequentist,
@@ -58,7 +59,7 @@ Least Authority (2011-2014):
 
 Software Engineer, Operator, Customer Support
 
-developed features in support of the Simple Secure Storage Service (S4):
+Developed features in support of the Simple Secure Storage Service (S4):
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 * Independently designed, implemented, and tested integration with Stripe
@@ -87,7 +88,7 @@ Operated EC2 clusters
   - service provisioning
   - email
 
-provided technical support to customers:
+Provided technical support to customers:
 ''''''''''''''''''''''''''''''''''''''''
 
 * Responsible for responding to and resolving all customer requests in a timely manner using the zendesk issue tracking system
@@ -111,8 +112,8 @@ Molecular Biology:
   development.
 * Used custom java applications to analyze retinal neuron firing patterns and infer properties of mammalian visual processing.
 
-Institute for Behavioral Genetics:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Institute for Behavioral Genetics (2005-2007):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Used various statistical/clustering techniques eg MCMC and HMMs to detect
   confounding factors in large scale genetic association studies of
@@ -125,13 +126,15 @@ Institute for Behavioral Genetics:
 University of Colorado (CU) Boulder, Undergraduate Research Grants:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Molecular Cellular and Developmental Biology:
-''''''''''''''''''''''''''''''''''''''''''''' 
+Molecular Cellular and Developmental Biology (2002-2005):
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 * Wrote custom Python scripts to identify distinct clusters of microbial
-  communities in the environment
+  communities in the environment, resulting in peer reviewed scientific paper
+  (http://aem.asm.org/content/72/5/3685.full)
+  and honors graduation.
 
-Environmental Population and Organismic Biology:
-''''''''''''''''''''''''''''''''''''''''''''''''
+Environmental Population and Organismic Biology (2000-2002):
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 * Performed electro-physiological experiments on zebrafish to determine how
   signal integration led to left-right decisions in various stimulus regimes
