@@ -129,7 +129,7 @@ University of Colorado (CU) Boulder, Undergraduate Research Grants:
 Molecular Cellular and Developmental Biology (2002-2005):
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 * Wrote custom Python scripts to identify distinct clusters of microbial
-  communities in the environment, resulting in peer reviewed scientific paper
+  communities in the environment, resulting in peer reviewed publication
   (http://aem.asm.org/content/72/5/3685.full)
   and honors graduation.
 
@@ -150,14 +150,14 @@ Education:
 * Fruita Monument Highschool (1995)
 * University of Colorado, Boulder (1999-2005)
 
+  - B.A. Molecular Biology, Magna Cum Laude, (GPA: 3.95)
   - B.A. Biochemistry
-  - B.A. Molecular Biology
   - Minors- Applied math(statistics), Chemistry.
   - Certificates: Neuroscience, emphasis computer science
 
 * University of California Santa Cruz (2007-2011)
 
-  - Molecular Biology; Bioinformatics; Statistics
+  - Molecular Biology; Bioinformatics; Statistics (Nominated TA of the Year 2010)
 
 
 * Miguel De Cervantes Spanish School, Xela, Guatemala (2011)

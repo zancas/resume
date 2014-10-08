@@ -27,7 +27,7 @@ endobj
   /Type /Page >>
 endobj
 9 0 obj
-<< /A << /S /URI /Type /Action /URI (http://aem.asm.org/content/72/5/3685.full) >> /Border [ 0 0 0 ] /Rect [ 289.8052 663.7736 471.5752 675.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://aem.asm.org/content/72/5/3685.full) >> /Border [ 0 0 0 ] /Rect [ 283.7127 663.7736 465.4827 675.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
 << /Annots [ 9 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -37,7 +37,7 @@ endobj
 << /Outlines 13 0 R /PageLabels 37 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog >>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20141008104839+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20141008105641+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 13 0 obj
@@ -953,7 +953,7 @@ Q
 endstream
 endobj
 36 0 obj
-<< /Length 5431 >>
+<< /Length 5493 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -988,7 +988,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 26 Tm .176905 Tw 12 TL /F1 10 Tf 0 0 0 rg (Wrote custom Python scripts to identify distinct clusters of microbial communities in the environment,) Tj T* 0 Tw 2.43372 Tw (resulting in peer reviewed scientific paper \() Tj 0 0 .501961 rg (http://aem.asm.org/content/72/5/3685.full) Tj 0 0 0 rg (\) and honors) Tj T* 0 Tw (graduation.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .176905 Tw 12 TL /F1 10 Tf 0 0 0 rg (Wrote custom Python scripts to identify distinct clusters of microbial communities in the environment,) Tj T* 0 Tw 5.479966 Tw (resulting in peer reviewed publication \() Tj 0 0 .501961 rg (http://aem.asm.org/content/72/5/3685.full) Tj 0 0 0 rg (\) and honors) Tj T* 0 Tw (graduation.) Tj T* ET
 Q
 Q
 q
@@ -1121,7 +1121,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Biochemistry) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Molecular Biology, Magna Cum Laude, \(GPA: 3.95\)) Tj T* ET
 Q
 Q
 q
@@ -1145,7 +1145,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Molecular Biology) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Biochemistry) Tj T* ET
 Q
 Q
 q
@@ -1247,7 +1247,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Molecular Biology; Bioinformatics; Statistics) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Molecular Biology; Bioinformatics; Statistics \(Nominated TA of the Year 2010\)) Tj T* ET
 Q
 Q
 q
@@ -1340,15 +1340,15 @@ xref
 0000005110 00000 n
 0000011549 00000 n
 0000020517 00000 n
-0000026005 00000 n
 0000026067 00000 n
-0000026104 00000 n
-0000026141 00000 n
+0000026129 00000 n
+0000026166 00000 n
+0000026203 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\231\026a\240k\022\256;\362\315\024\2376\267\367\030) (\231\026a\240k\022\256;\362\315\024\2376\267\367\030)]
+ [(Z\006\2358\250Y\210\250\343bD\333\314\013N\245) (Z\006\2358\250Y\210\250\343bD\333\314\013N\245)]
  /Info 12 0 R /Root 11 0 R /Size 41 >>
 startxref
-26178
+26240
 %%EOF
