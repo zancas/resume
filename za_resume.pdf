@@ -37,7 +37,7 @@ endobj
 << /Outlines 13 0 R /PageLabels 37 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog >>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20141008105641+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20141008112149+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 13 0 obj
@@ -109,7 +109,7 @@ endobj
 << /Count 3 /Kids [ 7 0 R 8 0 R 10 0 R ] /Type /Pages >>
 endobj
 34 0 obj
-<< /Length 6382 >>
+<< /Length 6391 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -319,7 +319,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 10.34398 Tw (Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning) Tj T* 0 Tw (\(MCMC/HMMs/Support Vectors\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.613615 Tw (Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning) Tj T* 0 Tw (\(MCMC/HMMs/Support Vectors\)) Tj T* ET
 Q
 Q
 q
@@ -1338,17 +1338,17 @@ xref
 0000004919 00000 n
 0000005034 00000 n
 0000005110 00000 n
-0000011549 00000 n
-0000020517 00000 n
-0000026067 00000 n
-0000026129 00000 n
-0000026166 00000 n
-0000026203 00000 n
+0000011558 00000 n
+0000020526 00000 n
+0000026076 00000 n
+0000026138 00000 n
+0000026175 00000 n
+0000026212 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(Z\006\2358\250Y\210\250\343bD\333\314\013N\245) (Z\006\2358\250Y\210\250\343bD\333\314\013N\245)]
+ [(K\302\231,\202\213\355\305h\367\006{h\273\323z) (K\302\231,\202\213\355\305h\367\006{h\273\323z)]
  /Info 12 0 R /Root 11 0 R /Size 41 >>
 startxref
-26240
+26249
 %%EOF

@@ -47,7 +47,7 @@ Proficient:
 Dabbled:
 ~~~~~~~~
 
-* Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning
+* Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning
   (MCMC/HMMs/Support Vectors)
 
 
