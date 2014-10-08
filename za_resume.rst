@@ -47,7 +47,7 @@ Proficient:
 Dabbled:
 ~~~~~~~~
 
-* Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning
+* Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, Mandarin, scheme, elisp, R, Machine Learning
   (MCMC/HMMs/Support Vectors)
 
 
@@ -142,7 +142,7 @@ Environmental Population and Organismic Biology (2000-2002):
 Sergeant, United State Marine Corps (USMC) (1995-1999):
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Performed duties of Infantryman, Honor Guard, intelligence analyst and squad leader
+* performed duties of Infantryman, Honor Guard, Intelligence Analyst and Squad Leader
 
 
 Education:
@@ -152,8 +152,9 @@ Education:
 
   - B.A. Molecular Biology, Magna Cum Laude, (GPA: 3.95)
   - B.A. Biochemistry
-  - Minors- Applied math(statistics), Chemistry.
-  - Certificates: Neuroscience, emphasis computer science
+  - Minors- Applied Math(statistics), Chemistry.
+  - Certificates: Neuroscience
+  - Emphasis: Computer Science
 
 * University of California Santa Cruz (2007-2011)
 

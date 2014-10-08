@@ -37,7 +37,7 @@ endobj
 << /Outlines 13 0 R /PageLabels 37 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog >>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20141008112149+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20141008113408+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 13 0 obj
@@ -103,13 +103,13 @@ endobj
 << /Dest [ 10 0 R /XYZ 62.69291 579.0236 0 ] /Parent 28 0 R /Prev 30 0 R /Title (Sergeant, United State Marine Corps \(USMC\) \(1995-1999\):) >>
 endobj
 32 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 534.0236 0 ] /Parent 13 0 R /Prev 19 0 R /Title (Education:) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 528.0236 0 ] /Parent 13 0 R /Prev 19 0 R /Title (Education:) >>
 endobj
 33 0 obj
 << /Count 3 /Kids [ 7 0 R 8 0 R 10 0 R ] /Type /Pages >>
 endobj
 34 0 obj
-<< /Length 6391 >>
+<< /Length 6401 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -319,7 +319,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.613615 Tw (Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, scheme, elisp, R, Machine Learning) Tj T* 0 Tw (\(MCMC/HMMs/Support Vectors\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.209147 Tw (Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, Mandarin, scheme, elisp, R, Machine Learning) Tj T* 0 Tw (\(MCMC/HMMs/Support Vectors\)) Tj T* ET
 Q
 Q
 q
@@ -953,7 +953,7 @@ Q
 endstream
 endobj
 36 0 obj
-<< /Length 5493 >>
+<< /Length 6059 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1040,26 +1040,49 @@ BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Sergeant, United State Marine Co
 Q
 Q
 q
-1 0 0 1 62.69291 546.0236 cm
+1 0 0 1 62.69291 552.0236 cm
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Performed duties of Infantryman, Honor Guard, intelligence analyst and squad leader) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (performed duties of Infantryman, Honor Guard, Intelligence Analyst and Squad Leader) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 483.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1080,28 +1103,52 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 483.0236 cm
+1 0 0 1 62.69291 477.0236 cm
 Q
 q
-1 0 0 1 62.69291 399.0236 cm
+1 0 0 1 62.69291 375.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 69 cm
+1 0 0 1 6 87 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 69 cm
+1 0 0 1 23 87 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (University of Colorado, Boulder \(1999-2005\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 63 cm
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Molecular Biology, Magna Cum Laude, \(GPA: 3.95\)) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 23 63 cm
@@ -1121,7 +1168,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Molecular Biology, Magna Cum Laude, \(GPA: 3.95\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Biochemistry) Tj T* ET
 Q
 Q
 q
@@ -1145,7 +1192,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.A. Biochemistry) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Minors- Applied Math\(statistics\), Chemistry.) Tj T* ET
 Q
 Q
 q
@@ -1169,7 +1216,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Minors- Applied math\(statistics\), Chemistry.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Certificates: Neuroscience) Tj T* ET
 Q
 Q
 q
@@ -1193,7 +1240,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Certificates: Neuroscience, emphasis computer science) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Emphasis: Computer Science) Tj T* ET
 Q
 Q
 q
@@ -1206,10 +1253,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 339.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1260,10 +1307,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 333.0236 cm
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 321.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1284,7 +1331,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 321.0236 cm
 Q
  
 endstream
@@ -1338,17 +1385,17 @@ xref
 0000004919 00000 n
 0000005034 00000 n
 0000005110 00000 n
-0000011558 00000 n
-0000020526 00000 n
-0000026076 00000 n
-0000026138 00000 n
-0000026175 00000 n
-0000026212 00000 n
+0000011568 00000 n
+0000020536 00000 n
+0000026652 00000 n
+0000026714 00000 n
+0000026751 00000 n
+0000026788 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(K\302\231,\202\213\355\305h\367\006{h\273\323z) (K\302\231,\202\213\355\305h\367\006{h\273\323z)]
+ [(\013 $\353\034\276Wx\211\321\354\231@{}\371) (\013 $\353\034\276Wx\211\321\354\231@{}\371)]
  /Info 12 0 R /Root 11 0 R /Size 41 >>
 startxref
-26249
+26825
 %%EOF
