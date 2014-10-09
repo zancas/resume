@@ -34,21 +34,14 @@ Experienced:
 Proficient:
 ~~~~~~~~~~~
 
-* JavaScript (jasmine, jquery, Stripe client), C, vi/vim, many basic
-  utilities (grep, ls, sl, find, nc, cat, etc, etc...), crypto primitives
-  applications (Diffie-Helman, signing, encrypting, decrypting, etc.)
+* JavaScript, C, vi/vim, GNU utilities
 
-* probability (permutations, combinations, distributions (binomial, gaussian,
-  exponential, Poisson, hypergeometric, etc.)), statistics (frequentist,
-  Bayesian, coherency, consistency, minimality, sufficiency, etc. linear
-  modeling, continuous, discrete, order stats, descriptive, predicitive,
-  hypothesis testing), modeling (functional, discrete), asymptotic algorithm analysis big-and-little-O
+* probability, statistics, asymptotic algorithm analysis (big/little-O)
 
 Dabbled:
 ~~~~~~~~
 
 * Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, Mandarin, scheme, elisp, R, Machine Learning
-  (MCMC/HMMs/Support Vectors)
 
 
 Professional Experience:
