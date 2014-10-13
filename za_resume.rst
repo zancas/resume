@@ -7,7 +7,7 @@ Empirical Pythonista Seeking Involvement With Radical Technologies
 Contact Me:
 -----------
 
-Za Wilgustus (AKAs: Zancas, Josh Wilcox, Precious Angel (to my mom))﻿
+Za Wilgustus (AKA: Josh Wilcox)
 
 Email:  wilcoxjg@gmail.com
 
@@ -23,32 +23,16 @@ Skills:
 Experienced:
 ~~~~~~~~~~~~
 
-* Python Testing (twisted.trial, mock, unittest, doctest), Python
-  (twisted.web, twisted.python.filepath, ipython, virtualenv, pip,
-  matplotlib, biopython, etc...), Git, Unix privacy tools: GPG, OTR, SSH, etc...,
-  Tahoe-LAFS, bash, networking (DHCP, DNS, HTTP, SSL, TCP/UDP, IP, ICMP, ethernet, 802.11,
-  CDMA, QAM 16/64, Coding Schemes (Huffman), Information Limits, etc.), emacs
-* Genetics (classical, quantitative, population/evolutionary), Evolution
-  (molecular, theoretical)
+* software engineering: Python, test-driven development, git, Unix security
+  and privacy tools, Tahoe-LAFS, bash
+* biology: genetics, evolution
 
 Proficient:
 ~~~~~~~~~~~
 
-* JavaScript (jasmine, jquery, Stripe client), C, vi/vim, many basic
-  utilities (grep, ls, sl, find, nc, cat, etc, etc...), crypto primitives
-  applications (Diffie-Helman, signing, encrypting, decrypting, etc.)
+* JavaScript, C, crypto primitive applications (Diffie-Helman, signing, encrypting, etc.)
 
-* probability (permutations, combinations, distributions (binomial, gaussian,
-  exponential, Poisson, hypergeometric, etc.)), statistics (frequentist,
-  Bayesian, coherency, consistency, minimality, sufficiency, etc. linear
-  modeling, continuous, discrete, order stats, descriptive, predicitive,
-  hypothesis testing), modeling (functional, discrete), asymptotic algorithm analysis big-and-little-O
-
-Dabbled:
-~~~~~~~~
-
-* Spanish, Java, CSS, HTML, Nagios, piwik, scaPY, Mandarin, scheme, elisp, R, Machine Learning
-  (MCMC/HMMs/Support Vectors)
+* probability, statistics, modeling, asymptotic algorithm analysis big-and-little-O
 
 
 Professional Experience:
@@ -69,9 +53,8 @@ Developed features in support of the Simple Secure Storage Service (S4):
 * Automated PGP signup flow (Python, BASH, Unittest, GPG)
 * Automated service provisioning including: payment processing, EC2 launch
   and Tahoe provisioning. (Twisted Python, git, tahoe-LAFS)
-* Detected and demonstrated inadequacy of DARCS for snapshotted
-  deployments. (darcs, git)
-* Designed and implemented Git based snapshotted provisioning. (git)
+* Identified inadequacy of previous system for snapshooted deployments,
+  designed and implemented Git based snapshotted provisioning. (git)
 
 Operated EC2 clusters
 '''''''''''''''''''''
