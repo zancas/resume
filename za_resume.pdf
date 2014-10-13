@@ -37,7 +37,7 @@ endobj
 << /Outlines 13 0 R /PageLabels 36 0 R /PageMode /UseNone /Pages 32 0 R /Type /Catalog >>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20141013162411+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20141013162835+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 13 0 obj
@@ -359,7 +359,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Integrated S4 nodes into the Statmover monitoring service. \(Python, BASH, AWS EC2/S3\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Integrated S4 nodes into the Statmover monitoring service. \(Python, bash, AWS EC2/S3\)) Tj T* ET
 Q
 Q
 q
@@ -383,7 +383,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Automated PGP signup flow \(Python, BASH, Unittest, GPG\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Automated PGP signup flow \(Python, bash, Unittest, GPG\)) Tj T* ET
 Q
 Q
 q
@@ -1330,7 +1330,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\351\302\3579.\032\212\376Y\0135\204\314\013U\243) (\351\302\3579.\032\212\376Y\0135\204\314\013U\243)]
+ [(\373t\260\262j\277m6\343^\216\326\3224\343\374) (\373t\260\262j\277m6\343^\216\326\3224\343\374)]
  /Info 12 0 R /Root 11 0 R /Size 40 >>
 startxref
 24791
