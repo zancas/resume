@@ -135,7 +135,7 @@ Education:
 
   - B.A. Molecular Biology, Magna Cum Laude, (GPA: 3.95)
   - B.A. Biochemistry
-  - Minors- Applied Math(statistics), Chemistry.
+  - Minors- Applied Math(statistics), Chemistry
   - Certificates: Neuroscience
   - Emphasis: Computer Science
 
