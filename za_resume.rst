@@ -1,4 +1,4 @@
-Empirical Pythonista Seeking Involvement With Radical Technologies
+Empirical Pythonista Seeking to Create Disruptive Technologies
 
 (SDN, Distributed Computation, Cryptocurrencies, Distributed Storage, Privacy)
 
