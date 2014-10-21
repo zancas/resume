@@ -19,93 +19,121 @@ endobj
 << /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 7 0 obj
-<< /Annots [ 4 0 R 5 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R 5 0 R ] /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 8 0 obj
 << /A << /S /URI /Type /Action /URI (http://aem.asm.org/content/72/5/3685.full) >> /Border [ 0 0 0 ] /Rect [ 283.7127 162.7736 465.4827 174.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /Annots [ 8 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 8 0 R ] /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 10 0 obj
-<< /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/zancas/leastauthority.com/blob/master/lae_automation/signup.py#L110) >> /Border [ 0 0 0 ] /Rect [ 85.69291 417.7736 245.7429 429.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /Outlines 13 0 R /PageLabels 36 0 R /PageMode /UseNone /Pages 32 0 R /Type /Catalog >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/zancas/leastauthority.com/blob/master/content/static/js/test/unit/unittests.js) >> /Border [ 0 0 0 ] /Rect [ 85.69291 399.7736 175.7229 411.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20141013192048+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title () >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/zancas/leastauthority.com/blob/master/content/static/js/subscription_signup.js) >> /Border [ 0 0 0 ] /Rect [ 195.1829 399.7736 355.2529 411.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /Count 23 /First 14 0 R /Last 31 0 R /Type /Outlines >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/zancas/leastauthority.com/blob/master/lae_site/handlers/submit_subscription.py) >> /Border [ 0 0 0 ] /Rect [ 85.69291 381.7736 317.4529 393.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 694.6772 0 ] /Next 15 0 R /Parent 13 0 R /Title (Contact Me:) >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/zancas/tahoe-lafs/blob/1634-dont-return-none_5/src/allmydata/web/common.py#L21) >> /Border [ 0 0 0 ] /Rect [ 85.69291 327.7736 260.2429 339.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
-<< /Count 2 /Dest [ 7 0 R /XYZ 62.69291 561.3307 0 ] /First 16 0 R /Last 17 0 R /Next 18 0 R /Parent 13 0 R 
-  /Prev 14 0 R /Title (Skills:) >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/zancas/tahoe-lafs/blob/1634-dont-return-none_5/src/allmydata/test/test_json_metadata.py) >> /Border [ 0 0 0 ] /Rect [ 279.7029 327.7736 399.7729 339.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 16 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 528.3307 0 ] /Next 17 0 R /Parent 15 0 R /Title (Experienced:) >>
+<< /Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ] /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 17 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 444.3307 0 ] /Parent 15 0 R /Prev 16 0 R /Title (Proficient:) >>
+<< /Outlines 19 0 R /PageLabels 45 0 R /PageMode /UseNone /Pages 41 0 R /Type /Catalog >>
 endobj
 18 0 obj
-<< /Count 12 /Dest [ 7 0 R /XYZ 62.69291 372.3307 0 ] /First 19 0 R /Last 27 0 R /Next 31 0 R /Parent 13 0 R 
-  /Prev 15 0 R /Title (Professional Experience:) >>
+<< /Author () /CreationDate (D:20141021104011+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
 endobj
 19 0 obj
-<< /Count 3 /Dest [ 7 0 R /XYZ 62.69291 339.3307 0 ] /First 20 0 R /Last 22 0 R /Next 23 0 R /Parent 18 0 R 
-  /Title (Least Authority \(2011-2014\):) >>
+<< /Count 27 /First 20 0 R /Last 38 0 R /Type /Outlines >>
 endobj
 20 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 291.3307 0 ] /Next 21 0 R /Parent 19 0 R /Title (Developed features in support of the Simple Secure Storage Service \(S4\):) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 694.6772 0 ] /Next 21 0 R /Parent 19 0 R /Title (Contact Me:) >>
 endobj
 21 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 132.3307 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Operated EC2 clusters) >>
+<< /Count 2 /Dest [ 7 0 R /XYZ 62.69291 561.3307 0 ] /First 22 0 R /Last 23 0 R /Next 24 0 R /Parent 19 0 R 
+  /Prev 20 0 R /Title (Skills:) >>
 endobj
 22 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 627.0236 0 ] /Parent 19 0 R /Prev 21 0 R /Title (Provided technical support to customers:) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 528.3307 0 ] /Next 23 0 R /Parent 21 0 R /Title (Experienced:) >>
 endobj
 23 0 obj
-<< /Count 2 /Dest [ 9 0 R /XYZ 62.69291 564.0236 0 ] /First 24 0 R /Last 25 0 R /Next 26 0 R /Parent 18 0 R 
-  /Prev 19 0 R /Title (University of California Santa Cruz \(2007-2011\):) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 444.3307 0 ] /Parent 21 0 R /Prev 22 0 R /Title (Proficient:) >>
 endobj
 24 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 516.0236 0 ] /Next 25 0 R /Parent 23 0 R /Title (Bioinformatics:) >>
+<< /Count 12 /Dest [ 7 0 R /XYZ 62.69291 372.3307 0 ] /First 25 0 R /Last 33 0 R /Next 37 0 R /Parent 19 0 R 
+  /Prev 21 0 R /Title (Professional Experience:) >>
 endobj
 25 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 447.0236 0 ] /Parent 23 0 R /Prev 24 0 R /Title (Molecular Biology:) >>
+<< /Count 3 /Dest [ 7 0 R /XYZ 62.69291 339.3307 0 ] /First 26 0 R /Last 28 0 R /Next 29 0 R /Parent 24 0 R 
+  /Title (Least Authority \(2011-2014\):) >>
 endobj
 26 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 366.0236 0 ] /Next 27 0 R /Parent 18 0 R /Prev 23 0 R /Title (Institute for Behavioral Genetics \(2005-2007\):) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 291.3307 0 ] /Next 27 0 R /Parent 25 0 R /Title (Developed features in support of the Simple Secure Storage Service \(S4\):) >>
 endobj
 27 0 obj
-<< /Count 3 /Dest [ 9 0 R /XYZ 62.69291 264.0236 0 ] /First 28 0 R /Last 30 0 R /Parent 18 0 R /Prev 26 0 R 
-  /Title (University of Colorado \(CU\) Boulder, Undergraduate Research Grants:) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 132.3307 0 ] /Next 28 0 R /Parent 25 0 R /Prev 26 0 R /Title (Operated EC2 clusters) >>
 endobj
 28 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 216.0236 0 ] /Next 29 0 R /Parent 27 0 R /Title (Molecular Cellular and Developmental Biology \(2002-2005\):) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 627.0236 0 ] /Parent 25 0 R /Prev 27 0 R /Title (Provided technical support to customers:) >>
 endobj
 29 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 141.0236 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (Environmental Population and Organismic Biology \(2000-2002\):) >>
+<< /Count 2 /Dest [ 9 0 R /XYZ 62.69291 564.0236 0 ] /First 30 0 R /Last 31 0 R /Next 32 0 R /Parent 24 0 R 
+  /Prev 25 0 R /Title (University of California Santa Cruz \(2007-2011\):) >>
 endobj
 30 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /Parent 27 0 R /Prev 29 0 R /Title (Sergeant, United State Marine Corps \(USMC\) \(1995-1999\):) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 516.0236 0 ] /Next 31 0 R /Parent 29 0 R /Title (Bioinformatics:) >>
 endobj
 31 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 714.0236 0 ] /Parent 13 0 R /Prev 18 0 R /Title (Education:) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 447.0236 0 ] /Parent 29 0 R /Prev 30 0 R /Title (Molecular Biology:) >>
 endobj
 32 0 obj
-<< /Count 3 /Kids [ 7 0 R 9 0 R 10 0 R ] /Type /Pages >>
+<< /Dest [ 9 0 R /XYZ 62.69291 366.0236 0 ] /Next 33 0 R /Parent 24 0 R /Prev 29 0 R /Title (Institute for Behavioral Genetics \(2005-2007\):) >>
 endobj
 33 0 obj
+<< /Count 3 /Dest [ 9 0 R /XYZ 62.69291 264.0236 0 ] /First 34 0 R /Last 36 0 R /Parent 24 0 R /Prev 32 0 R 
+  /Title (University of Colorado \(CU\) Boulder, Undergraduate Research Grants:) >>
+endobj
+34 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 216.0236 0 ] /Next 35 0 R /Parent 33 0 R /Title (Molecular Cellular and Developmental Biology \(2002-2005\):) >>
+endobj
+35 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 141.0236 0 ] /Next 36 0 R /Parent 33 0 R /Prev 34 0 R /Title (Environmental Population and Organismic Biology \(2000-2002\):) >>
+endobj
+36 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 765.0236 0 ] /Parent 33 0 R /Prev 35 0 R /Title (Sergeant, United State Marine Corps \(USMC\) \(1995-1999\):) >>
+endobj
+37 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 714.0236 0 ] /Next 38 0 R /Parent 19 0 R /Prev 24 0 R /Title (Education:) >>
+endobj
+38 0 obj
+<< /Count 2 /Dest [ 16 0 R /XYZ 62.69291 495.0236 0 ] /First 39 0 R /Last 40 0 R /Parent 19 0 R /Prev 37 0 R 
+  /Title (URLs to Interesting Bits of Code I've Written:) >>
+endobj
+39 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 462.0236 0 ] /Next 40 0 R /Parent 38 0 R /Title (For Leastauthority.com:) >>
+endobj
+40 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 372.0236 0 ] /Parent 38 0 R /Prev 39 0 R /Title (For Tahoe-LAFS:) >>
+endobj
+41 0 obj
+<< /Count 3 /Kids [ 7 0 R 9 0 R 16 0 R ] /Type /Pages >>
+endobj
+42 0 obj
 << /Length 6673 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -479,7 +507,7 @@ Q
  
 endstream
 endobj
-34 0 obj
+43 0 obj
 << /Length 8459 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -966,8 +994,8 @@ Q
  
 endstream
 endobj
-35 0 obj
-<< /Length 4328 >>
+44 0 obj
+<< /Length 6534 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1270,23 +1298,145 @@ Q
 q
 1 0 0 1 62.69291 507.0236 cm
 Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (URLs to Interesting Bits of Code I've Written:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (For Leastauthority.com:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storage Server \(EC2\) Deployments ) Tj 0 0 0 rg (\(twisted\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Jasmine/JS Testing ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (Interface to Stripe Payment System ) Tj 0 0 0 rg (\(jasmine, jquery, JS\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (handling of Stripe, browser, and server interractions ) Tj 0 0 0 rg (\(twisted.web\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (For Tahoe-LAFS:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (update and refactor metadata handling ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (tests of metadata handling ) Tj 0 0 0 rg (\(DRYness, unittest, mock\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+Q
  
 endstream
 endobj
-36 0 obj
-<< /Nums [ 0 37 0 R 1 38 0 R 2 39 0 R ] >>
+45 0 obj
+<< /Nums [ 0 46 0 R 1 47 0 R 2 48 0 R ] >>
 endobj
-37 0 obj
+46 0 obj
 << /S /D /St 1 >>
 endobj
-38 0 obj
+47 0 obj
 << /S /D /St 2 >>
 endobj
-39 0 obj
+48 0 obj
 << /S /D /St 3 >>
 endobj
 xref
-0 40
+0 49
 0000000000 65535 f
 0000000075 00000 n
 0000000129 00000 n
@@ -1298,40 +1448,49 @@ xref
 0000001102 00000 n
 0000001298 00000 n
 0000001525 00000 n
-0000001735 00000 n
-0000001844 00000 n
-0000002055 00000 n
-0000002133 00000 n
-0000002248 00000 n
-0000002412 00000 n
-0000002528 00000 n
-0000002643 00000 n
-0000002825 00000 n
-0000002999 00000 n
-0000003177 00000 n
-0000003315 00000 n
-0000003459 00000 n
-0000003666 00000 n
-0000003785 00000 n
-0000003907 00000 n
-0000004072 00000 n
-0000004285 00000 n
-0000004448 00000 n
-0000004627 00000 n
-0000004791 00000 n
-0000004906 00000 n
-0000004982 00000 n
-0000011712 00000 n
-0000020228 00000 n
-0000024613 00000 n
-0000024675 00000 n
-0000024712 00000 n
-0000024749 00000 n
+0000001767 00000 n
+0000002020 00000 n
+0000002273 00000 n
+0000002526 00000 n
+0000002779 00000 n
+0000003041 00000 n
+0000003305 00000 n
+0000003414 00000 n
+0000003625 00000 n
+0000003703 00000 n
+0000003818 00000 n
+0000003982 00000 n
+0000004098 00000 n
+0000004213 00000 n
+0000004395 00000 n
+0000004569 00000 n
+0000004747 00000 n
+0000004885 00000 n
+0000005029 00000 n
+0000005236 00000 n
+0000005355 00000 n
+0000005477 00000 n
+0000005642 00000 n
+0000005855 00000 n
+0000006018 00000 n
+0000006197 00000 n
+0000006361 00000 n
+0000006489 00000 n
+0000006680 00000 n
+0000006808 00000 n
+0000006928 00000 n
+0000007004 00000 n
+0000013734 00000 n
+0000022250 00000 n
+0000028841 00000 n
+0000028903 00000 n
+0000028940 00000 n
+0000028977 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\330\030j\374\355\310\226\032\025/\204\336\343{c\010) (\330\030j\374\355\310\226\032\025/\204\336\343{c\010)]
- /Info 12 0 R /Root 11 0 R /Size 40 >>
+ [(\301g\220\275gW\334\255\352\307\202\230\013\266\231\343) (\301g\220\275gW\334\255\352\307\202\230\013\266\231\343)]
+ /Info 18 0 R /Root 17 0 R /Size 49 >>
 startxref
-24786
+29014
 %%EOF

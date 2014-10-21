@@ -145,3 +145,28 @@ Education:
 
 
 * Miguel De Cervantes Spanish School, Xela, Guatemala (2011)
+
+
+URLs to Interesting Bits of Code I've Written:
+----------------------------------------------
+
+For Leastauthority.com:
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* `Storage Server (EC2) Deployments`_ (twisted)
+* `Jasmine/JS Testing`_ and `Interface to Stripe Payment System`_ (jasmine,
+  jquery, JS)
+* `handling of Stripe, browser, and server interractions`_ (twisted.web)
+
+For Tahoe-LAFS:
+~~~~~~~~~~~~~~~
+
+* `update and refactor metadata handling`_ and `tests of metadata handling`_
+  (DRYness, unittest, mock)
+
+.. _Storage Server (EC2) Deployments: https://github.com/zancas/leastauthority.com/blob/master/lae_automation/signup.py#L110
+.. _Jasmine/JS Testing: https://github.com/zancas/leastauthority.com/blob/master/content/static/js/test/unit/unittests.js
+.. _Interface to Stripe Payment System: https://github.com/zancas/leastauthority.com/blob/master/content/static/js/subscription_signup.js
+.. _handling of Stripe, browser, and server interractions: https://github.com/zancas/leastauthority.com/blob/master/lae_site/handlers/submit_subscription.py
+.. _update and refactor metadata handling: https://github.com/zancas/tahoe-lafs/blob/1634-dont-return-none_5/src/allmydata/web/common.py#L21
+.. _tests of metadata handling: https://github.com/zancas/tahoe-lafs/blob/1634-dont-return-none_5/src/allmydata/test/test_json_metadata.py
