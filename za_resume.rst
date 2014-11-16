@@ -4,10 +4,8 @@ Empirical Pythonista Seeking to Create Disruptive Technologies
 
 ***********************
 
-Contact Me:
------------
-
-Za Wilgustus (AKA: Josh Wilcox)
+Contact Me, Josh Wilcox:
+------------------------
 
 Email:  wilcoxjg@gmail.com
 
