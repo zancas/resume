@@ -162,11 +162,6 @@ For Tahoe-LAFS:
 * `update and refactor metadata handling`_ and `tests of metadata handling`_
   (DRYness, unittest, mock)
 
-For OKTurtles:
-~~~~~~~~~~~~~~
-
-* `perform lookups on namecoin servers`_ (in progress)
-
 
 .. _Storage Server (EC2) Deployments: https://github.com/zancas/leastauthority.com/blob/master/lae_automation/signup.py#L110
 .. _Jasmine/JS Testing: https://github.com/zancas/leastauthority.com/blob/master/content/static/js/test/unit/unittests.js
@@ -174,4 +169,3 @@ For OKTurtles:
 .. _handling of Stripe, browser, and server interractions: https://github.com/zancas/leastauthority.com/blob/master/lae_site/handlers/submit_subscription.py
 .. _update and refactor metadata handling: https://github.com/zancas/tahoe-lafs/blob/1634-dont-return-none_5/src/allmydata/web/common.py#L21
 .. _tests of metadata handling: https://github.com/zancas/tahoe-lafs/blob/1634-dont-return-none_5/src/allmydata/test/test_json_metadata.py
-.. _perform lookups on namecoin servers: https://github.com/okTurtles/pydnschain/blob/2_implement_lookup_2/dnschain/server.py
