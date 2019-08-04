@@ -1,13 +1,13 @@
-Empirical Pythonista Seeking to Create Disruptive Technologies
+Autonomy Advocate Seeking to Create An Environment Where Tolerance and Diversity Can Flourish
 
-(SDN, Distributed Computation, Cryptocurrencies, Distributed Storage, Privacy)
+(Distributed Computation, Cryptocurrencies, Distributed Storage, Privacy)
 
 ***********************
 
-Contact Me, Josh Wilcox:
+Contact Me, Za Wilcox:
 ------------------------
 
-Email:  wilcoxjg@gmail.com
+Email:  zancas@protonmail.com
 
 Cell:   303-917-4176
 
@@ -28,10 +28,7 @@ Experienced:
 Proficient:
 ~~~~~~~~~~~
 
-* JavaScript, C, crypto primitive applications (Diffie-Helman, signing, encrypting, etc.)
-
-* probability, statistics, modeling, asymptotic algorithm analysis big-and-little-O
-
+* JavaScript, Rust, docker, BASH
 
 Professional Experience:
 ------------------------
