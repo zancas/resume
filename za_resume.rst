@@ -1,4 +1,4 @@
-Autonomy Advocate Seeking to Create An Environment Where Tolerance and Diversity Can Flourish
+Autonomy Advocate Working to Create An Environment Where Tolerance and Diversity Can Flourish
 
 (Distributed Computation, Cryptocurrencies, Distributed Storage, Privacy)
 
@@ -33,13 +33,13 @@ Proficient:
 Professional Experience:
 ------------------------
 
-ZingO Labs (2019):
-~~~~~~~~~~~~~~~~~~
+ZingO Labs (2018 - 2019):
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Software Architect
 
 
-F5 Networks (2015 - 2018):
+F5 Networks (2015 - 2017):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Software Engineer II -> III
@@ -177,6 +177,10 @@ For Tahoe-LAFS:
 * `update and refactor metadata handling`_ and `tests of metadata handling`_
   (DRYness, unittest, mock)
 
+For F5 Networks:
+~~~~~~~~~~~~~~~~
+
+* `Python SDK for configuration and monitoring of F5® BIG-IP® devices via the iControl® REST API`_
 
 For ZingO:
 ~~~~~~~~~~
@@ -184,6 +188,7 @@ For ZingO:
 * `proxy to serve requests from web extension to zcash rpc`_
 * `web extension to reorganize search results according to zcash-weighted bids`_
 
+.. _Python SDK for configuration and monitoring of F5® BIG-IP® devices via the iControl® REST API: https://github.com/F5Networks/f5-common-python
 .. _web extension to reorganize search results according to zcash-weighted bids: https://gitlab.com/ZingO-Labs/webextension
 .. _proxy to serve requests from web extension to zcash rpc: https://gitlab.com/ZingO-Labs/extensionzcashdproxy
 
