@@ -34,20 +34,22 @@ Professional Experience:
 ------------------------
 
 ZingO Labs (2019):
-------------------
+~~~~~~~~~~~~~~~~~~
 
 Software Architect
 
-Designed and implemented components of a Zcash Application
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 F5 Networks (2015 - 2018):
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Software Engineer II -> III
 
 Wrote Python Tests, APIs, Test Infrastructure
 '''''''''''''''''''''''''''''''''''''''''''''
+
+* implemented tests in Robot and Python for the LineRate loadblancer
+* implemented tests in Robot and Python for the BigIP
+* implemented a Python API to the BigIP controller
 
 Least Authority (2011-2014):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
