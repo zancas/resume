@@ -180,7 +180,9 @@ For ZingO:
 ~~~~~~~~~~
 
 * `proxy to serve requests from web extension to zcash rpc`_
+* `web extension to reorganize search results according to zcash-weighted bids`_
 
+.. _web extension to reorganize search results according to zcash-weighted bids: https://gitlab.com/ZingO-Labs/webextension
 .. _proxy to serve requests from web extension to zcash rpc: https://gitlab.com/ZingO-Labs/extensionzcashdproxy
 
 .. _Storage Server (EC2) Deployments: https://github.com/zancas/leastauthority.com/blob/master/lae_automation/signup.py#L110
