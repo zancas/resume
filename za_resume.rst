@@ -36,6 +36,22 @@ Proficient:
 Professional Experience:
 ------------------------
 
+ZingO Labs (2019):
+------------------
+
+Software Architect
+
+Designed and implemented components of a Zcash Application
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+F5 Networks (2015 - 2018):
+--------------------------
+
+Software Engineer II -> III
+
+Wrote Python Tests, APIs, Test Infrastructure
+'''''''''''''''''''''''''''''''''''''''''''''
+
 Least Authority (2011-2014):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -162,6 +178,13 @@ For Tahoe-LAFS:
 * `update and refactor metadata handling`_ and `tests of metadata handling`_
   (DRYness, unittest, mock)
 
+
+For ZingO:
+~~~~~~~~~~
+
+* `proxy to serve requests from web extension to zcash rpc`_
+
+.. _proxy to serve requests from web extension to zcash rpc: https://gitlab.com/ZingO-Labs/extensionzcashdproxy
 
 .. _Storage Server (EC2) Deployments: https://github.com/zancas/leastauthority.com/blob/master/lae_automation/signup.py#L110
 .. _Jasmine/JS Testing: https://github.com/zancas/leastauthority.com/blob/master/content/static/js/test/unit/unittests.js
